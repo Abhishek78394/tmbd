@@ -1,0 +1,26 @@
+
+.myFooter{
+    background-color: #28282d;
+    display: block;
+    position: relative;
+    padding: 20px 0 20px;
+}
+.socialIconsList li{
+    width: 3.4vw;
+    height: 3.4vw;
+    background:#FF5692;
+    list-style: none;
+    font-size: 1.2vw;
+  display: flex;justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+.socialIconsList li a{
+    color: white;
+}
+.socialIconsList li:hover a{
+    color: #FF5692;
+}
+.socialIconsList li:hover{
+    background: white;
+}

@@ -1,0 +1,22 @@
+
+.header .navbar{
+    background: #2b2b31;
+    padding:20px 0;
+    box-shadow: 2px 3px 4px rgb(69, 69, 69);
+  }
+  .header  .navbar-brand{
+    color: rgba(255,255,255,0.75);
+  }
+  .header  .nav-item a{
+    font-size: 14px;
+    text-decoration: none;
+      font-weight: 400;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.75);
+  }
+  .header  .nav-item a:hover{
+    color: #ff55a5;
+  }
+  .header  .navbar-nav{
+    margin-right: 20px;
+  }
